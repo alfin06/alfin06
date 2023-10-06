@@ -6,8 +6,7 @@ I am a results-driven and fast-learning software engineer with 6 years of experi
 
 - remote role opportunities,
 - any collobration work,
-- software development projects, and
-- software engineering research
+- software development projects
 
 ## Skills:
 
