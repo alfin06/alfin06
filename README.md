@@ -7,7 +7,7 @@ I am a results-driven and fast-learning software engineer with 6 years of experi
 - remote role opportunities,
 - any collobration work,
 - software development projects
-
+<!--
 ## Skills:
 
 #### Languages:
@@ -52,4 +52,4 @@ I am a results-driven and fast-learning software engineer with 6 years of experi
 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/arahardja/)
 </p>
-
+-->
