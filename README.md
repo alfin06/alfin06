@@ -1,11 +1,9 @@
 ### Hi there, I'm Alfin 👋
 
-I am a results-driven and fast-learning software engineer with 6 years of experience in developing scalable software solutions. Passionate about software engineering, AI, and leadership. I deliver high-quality solutions and strive for efficiency as well as effectiveness.
-
  **I am open to**:
 
 - remote role opportunities,
-- any collobration work,
+- collobration work,
 - software development projects
 <!--
 ## Skills:
