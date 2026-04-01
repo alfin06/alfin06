@@ -1,22 +1,34 @@
-# 💫 About Me:
-Hi there, I'm Alfin 👋
-I am open to:
-- remote role opportunities,
-- collobration work,
-- software development projects
-  
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alfinrahardja@gmail.com) 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alfin06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=alfin06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alfin06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alfin06&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<div align="center">
+  <a href="mailto:alfinrahardja@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo"  /></a>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=alfin06&icon=0&color=0)](https://visitcount.itsvg.in)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h1 align="center">Hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">
+Hi there, I'm Alfin 👋<br/>
+I am open to:<br/>
+- remote role opportunities,<br/>
+- collobration work,<br/>
+- software development projects</p>
+
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=alfin06&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
