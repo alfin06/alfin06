@@ -5,8 +5,8 @@
 ###
 
 <div align="center">
-  <a href="mailto:alfinrahardja@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/arahardja/"><img src="https://img.shields.io/static/v1?message=Gmail&logo=linkedin&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo"  /></a>
+  <a href="mailto:alfinrahardja@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="25" alt="Gmail logo"  /></a>
+  <a href="https://www.linkedin.com/in/arahardja/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="25" alt="Linkedin logo"/></a>
 </div>
 
 ###
