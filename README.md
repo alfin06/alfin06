@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://github.com/alfin06/alfin06.github.io/blob/main/assets/logo.svg"  />
 </div>
 
 ###
